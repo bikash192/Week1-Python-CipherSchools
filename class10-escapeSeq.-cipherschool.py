@@ -1,0 +1,10 @@
+# ESCAPE SEQUENCE
+print("hello \"world\"world")
+# 1.new line(\n)
+print("line A\nline B\n line c")
+# 2.tab(\t)
+print("name\tbikashkumar")
+# 3.backslash(\\-\)
+print("this is backslash\\")
+#4.backspace(\b)
+print("bikash\bddas")
